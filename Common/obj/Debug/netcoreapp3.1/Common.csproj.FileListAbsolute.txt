@@ -1,0 +1,28 @@
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\Gasal 2021\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\Gasal 2021\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\Gasal 2021\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\grafkom\C#\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\grafkom\C#\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\grafkom\C#\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\grafkom\C#\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\grafkom\C#\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\grafkom\C#\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\grafkom\C#\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\grafkom\C#\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\grafkom\C#\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\grafkom\C#\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
